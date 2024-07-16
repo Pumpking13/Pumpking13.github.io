@@ -1,0 +1,12 @@
+body{
+   
+   .red {
+    color: coral;
+   }
+    #blue {
+color: blue;
+    }
+    textarea{
+size: 200%;
+    }
+}
